@@ -2,12 +2,13 @@ h1, h2 , h3{
 	color:red;
 	background-color: green;
 	font-size: 18px;
+
 }
 p{
 	text-decoration: underline;
 	padding:10px;
 	margin:10px;
-	color:white;
+	color:red;
 }
 .saffa{
 	color:yellow;
