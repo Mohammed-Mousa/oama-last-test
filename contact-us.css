@@ -5,4 +5,11 @@
 	text-decoration: underline;
 	border: 2px solid red;
 	display: none;
+
+	padding:30px;
+	margin:80px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	object-fit:cover;
 }
