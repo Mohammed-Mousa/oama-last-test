@@ -2,4 +2,10 @@
 	color:red;
 	background-color: red;
 	text-align: center;
+
+	position: inherit;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
 }
